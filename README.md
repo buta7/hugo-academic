@@ -38,76 +38,11 @@ rm -fr .git/modules
 サイト設定
 
 ```shell
-cp themes/dream/exampleSite/config.toml .
+cp -pr themes/dream/exampleSite/config .
+mv config.toml config.toml.bak
 ```
-
-config.toml
-
-```toml
-baseURL = "https://example.com/"
-languageCode = "en-us"
-defaultContentLanguage = "ja"
-title = "My New Hugo Site"
-theme = "ananke"
-```
-
-> github pagesやnetlifyで使う場合はbaseURLのプロトコルはhttpsにすること
-
-起動確認(http://localhost:1313)
-
-```shell
-cp /path/to/someplace/Makefile .
-make run
-```
-
-Githubレポジトリ作成後
-
-```shell
-git remote add origin git@github.com:buta7/buta7.netlify.app.git
-git add .
-git commit -m 'init'
-git push -u origin master
-```
-### Netlifyの設定
-
-* netlify.tomlの設置
-* Site Settings>Build&deploy>Build settings
-    * Repository: github.com/buta7/buta7.github.io
-    * Build command: hugo --gc -minify
-
-## 使い方
-
-### 投稿
-
-新規投稿
-
-```shell
-hugo new posts/2020/05/helloworld.md
-content/posts/2020/05/helloworld.md created
-```
-
-```shell
-SLUG=helloworld DATE=20200505 make post
-```
-
-文書作成
-
-```shell
-vi content/posts/2020/05/helloworld.md
-```
-
-
-下書きモード解除
-
-```shell
-vi content/posts/2020/05/helloworld.md
-draft: false
-```
-
-## 注意
-
-メディアファイル(css/js)を/から参照するのでnetlifyやgithub pagesのproject向き(github pagesのuserはだめ)
 
 ## Link
 
-* [Hugo Theme Dream \| Hugo Themes](https://themes.gohugo.io/hugo-theme-dream/)
+* [HumamAlwassel/hugo\-academic: 📝 The website builder for Hugo\. Build and deploy a beautiful website in minutes\!](https://github.com/HumamAlwassel/hugo-academic)
+* [Hugo \+ Academic テーマを使ったブログの作り方 \- Qiita](https://qiita.com/harumaxy/items/58e7e4273c61e7e260b3)
