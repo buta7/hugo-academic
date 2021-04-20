@@ -38,7 +38,7 @@ rm -fr .git/modules
 サイト設定
 
 ```shell
-cp -pr themes/dream/exampleSite/config .
+cp -pr themes/academic/exampleSite/{config,content} .
 mv config.toml config.toml.bak
 ```
 
