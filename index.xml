@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Academic</title><link>/</link><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><description>Academic</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><image><url>/img/icon-192.png</url><title>Academic</title><link>/</link></image><item><title>Example Page 1</title><link>/courses/example/example1/</link><pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate><guid>/courses/example/example1/</guid><description>&lt;p>In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p>
+&lt;h2 id="tip-1">Tip 1&lt;/h2>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
+&lt;p>Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p>
+&lt;p>Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p>
+&lt;p>Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p>
+&lt;p>Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p>
+&lt;h2 id="tip-2">Tip 2&lt;/h2>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
+&lt;p>Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p>
+&lt;p>Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p>
+&lt;p>Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p>
+&lt;p>Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p></description></item><item><title>Example Page 2</title><link>/courses/example/example2/</link><pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate><guid>/courses/example/example2/</guid><description>&lt;p>Here are some more tips for getting started with Academic:&lt;/p>
+&lt;h2 id="tip-3">Tip 3&lt;/h2>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
+&lt;p>Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p>
+&lt;p>Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p>
+&lt;p>Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p>
+&lt;p>Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p>
+&lt;h2 id="tip-4">Tip 4&lt;/h2>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
+&lt;p>Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p>
+&lt;p>Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p>
+&lt;p>Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p>
+&lt;p>Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p></description></item><item><title>Example Talk</title><link>/talk/example/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>/talk/example/</guid><description>&lt;!-- raw HTML omitted -->
+&lt;p>Slides can be added in a few ways:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Create&lt;/strong> slides using Academic&amp;rsquo;s &lt;a href="https://sourcethemes.com/academic/docs/managing-content/#create-slides">&lt;em>Slides&lt;/em>&lt;/a> feature and link using &lt;code>slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
+&lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
+&lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/">shortcodes&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;p>Further talk details can easily be added to this page using &lt;em>Markdown&lt;/em> and $\rm \LaTeX$ math code.&lt;/p></description></item><item><title>Writing technical content in Academic</title><link>/post/writing-technical-content/</link><pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate><guid>/post/writing-technical-content/</guid><description>&lt;p>Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p>
+&lt;p>&lt;strong>Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong>&lt;/p>
+&lt;p>On this page, you'll find some examples of the types of technical content that can be rendered with Academic.&lt;/p>
+&lt;h2 id="examples">Examples&lt;/h2>
+&lt;h3 id="code">Code&lt;/h3>
+&lt;p>Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the &lt;code>highlight&lt;/code> option in your &lt;code>config/_default/params.toml&lt;/code> file.&lt;/p>
+&lt;pre>&lt;code>```python
+import pandas as pd
+data = pd.read_csv(&amp;#34;data.csv&amp;#34;)
+data.head()
+```&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-python" data-lang="python">&lt;span style="color:#f92672">import&lt;/span> pandas &lt;span style="color:#f92672">as&lt;/span> pd
+data &lt;span style="color:#f92672">=&lt;/span> pd&lt;span style="color:#f92672">.&lt;/span>read_csv(&lt;span style="color:#e6db74">&amp;#34;data.csv&amp;#34;&lt;/span>)
+data&lt;span style="color:#f92672">.&lt;/span>head()&lt;/code>&lt;/pre>&lt;/div>
+&lt;h3 id="math">Math&lt;/h3>
+&lt;p>Academic supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code>math&lt;/code> option in your &lt;code>config/_default/params.toml&lt;/code> file and adding &lt;code>markup: mmark&lt;/code> to your page front matter.&lt;/p>
+&lt;p>To render &lt;em>inline&lt;/em> or &lt;em>block&lt;/em> math, wrap your LaTeX math with &lt;code>$$...$$&lt;/code>.&lt;/p>
+&lt;p>Example &lt;strong>math block&lt;/strong>:&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-tex" data-lang="tex">&lt;span style="color:#e6db74">$$&lt;/span>\gamma_{n} &lt;span style="color:#f92672">=&lt;/span> \frac{
+\left | \left &lt;span style="color:#f92672">(&lt;/span>\mathbf x_{n} &lt;span style="color:#f92672">-&lt;/span> \mathbf x_{n&lt;span style="color:#f92672">-&lt;/span>&lt;span style="color:#ae81ff">1&lt;/span>} \right &lt;span style="color:#f92672">)&lt;/span>^T
+\left &lt;span style="color:#f92672">[&lt;/span>\nabla F &lt;span style="color:#f92672">(&lt;/span>\mathbf x_{n}&lt;span style="color:#f92672">)&lt;/span> &lt;span style="color:#f92672">-&lt;/span> \nabla F &lt;span style="color:#f92672">(&lt;/span>\mathbf x_{n&lt;span style="color:#f92672">-&lt;/span>&lt;span style="color:#ae81ff">1&lt;/span>}&lt;span style="color:#f92672">)&lt;/span> \right &lt;span style="color:#f92672">]&lt;/span> \right |}
+{\left \|\nabla F&lt;span style="color:#f92672">(&lt;/span>\mathbf{x}_{n}&lt;span style="color:#f92672">)&lt;/span> &lt;span style="color:#f92672">-&lt;/span> \nabla F&lt;span style="color:#f92672">(&lt;/span>\mathbf{x}_{n&lt;span style="color:#f92672">-&lt;/span>&lt;span style="color:#ae81ff">1&lt;/span>}&lt;span style="color:#f92672">)&lt;/span> \right \|^&lt;span style="color:#ae81ff">2&lt;/span>}&lt;span style="color:#e6db74">$$&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;p>renders as&lt;/p>
+&lt;p>&lt;span class="math">\[\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}\]&lt;/span>&lt;/p>
+&lt;p>Example &lt;strong>inline math&lt;/strong> &lt;code>$$\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2$$&lt;/code> renders as &lt;span class="math">\(\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2\)&lt;/span> .&lt;/p>
+&lt;p>Example &lt;strong>multi-line math&lt;/strong> using the &lt;code>\\&lt;/code> math linebreak:&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-tex" data-lang="tex">&lt;span style="color:#e6db74">$$&lt;/span>f&lt;span style="color:#f92672">(&lt;/span>k;p_&lt;span style="color:#ae81ff">0&lt;/span>^&lt;span style="color:#f92672">*)&lt;/span> &lt;span style="color:#f92672">=&lt;/span> \begin{cases} p_&lt;span style="color:#ae81ff">0&lt;/span>^&lt;span style="color:#f92672">*&lt;/span> &amp;amp; \text{if }k&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#ae81ff">1&lt;/span>, \\
+&lt;span style="color:#ae81ff">1&lt;/span>&lt;span style="color:#f92672">-&lt;/span>p_&lt;span style="color:#ae81ff">0&lt;/span>^&lt;span style="color:#f92672">*&lt;/span> &amp;amp; \text {if }k&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#ae81ff">0&lt;/span>.\end{cases}&lt;span style="color:#e6db74">$$&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;p>renders as&lt;/p>
+&lt;p>&lt;span class="math">\[f(k;p_0^*) = \begin{cases} p_0^* &amp; \text{if }k=1, \\
+1-p_0^* &amp; \text {if }k=0.\end{cases}\]&lt;/span>&lt;/p>
+&lt;h3 id="diagrams">Diagrams&lt;/h3>
+&lt;p>Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code>diagram&lt;/code> option in your &lt;code>config/_default/params.toml&lt;/code> file or by adding &lt;code>diagram: true&lt;/code> to your page front matter.&lt;/p>
+&lt;p>An example &lt;strong>flowchart&lt;/strong>:&lt;/p>
+&lt;pre>&lt;code>```mermaid
+graph TD;
+A--&amp;gt;B;
+A--&amp;gt;C;
+B--&amp;gt;D;
+C--&amp;gt;D;
+```&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;pre>&lt;code class="language-mermaid" data-lang="mermaid">graph TD;
+A--&amp;gt;B;
+A--&amp;gt;C;
+B--&amp;gt;D;
+C--&amp;gt;D;&lt;/code>&lt;/pre>
+&lt;p>An example &lt;strong>sequence diagram&lt;/strong>:&lt;/p>
+&lt;pre>&lt;code>```mermaid
+sequenceDiagram
+participant Alice
+participant Bob
+Alice-&amp;gt;John: Hello John, how are you?
+loop Healthcheck
+John-&amp;gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts &amp;lt;br/&amp;gt;prevail...
+John--&amp;gt;Alice: Great!
+John-&amp;gt;Bob: How about you?
+Bob--&amp;gt;John: Jolly good!
+```&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;pre>&lt;code class="language-mermaid" data-lang="mermaid">sequenceDiagram
+participant Alice
+participant Bob
+Alice-&amp;gt;John: Hello John, how are you?
+loop Healthcheck
+John-&amp;gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts &amp;lt;br/&amp;gt;prevail...
+John--&amp;gt;Alice: Great!
+John-&amp;gt;Bob: How about you?
+Bob--&amp;gt;John: Jolly good!&lt;/code>&lt;/pre>
+&lt;p>An example &lt;strong>Gantt diagram&lt;/strong>:&lt;/p>
+&lt;pre>&lt;code>```mermaid
+gantt
+dateFormat YYYY-MM-DD
+section Section
+A task :a1, 2014-01-01, 30d
+Another task :after a1 , 20d
+section Another
+Task in sec :2014-01-12 , 12d
+another task : 24d
+```&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;pre>&lt;code class="language-mermaid" data-lang="mermaid">gantt
+dateFormat YYYY-MM-DD
+section Section
+A task :a1, 2014-01-01, 30d
+Another task :after a1 , 20d
+section Another
+Task in sec :2014-01-12 , 12d
+another task : 24d&lt;/code>&lt;/pre>
+&lt;h3 id="todo-lists">Todo lists&lt;/h3>
+&lt;p>You can even write your todo lists in Academic too:&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="color:#66d9ef">- [x]&lt;/span> Write math example
+&lt;span style="color:#66d9ef">- [x]&lt;/span> Write diagram example
+- [ ] Do something else&lt;/code>&lt;/pre>&lt;/div>
+&lt;p>renders as&lt;/p>
+&lt;ul>
+&lt;li>&lt;input type="checkbox" checked="" disabled=""> Write math example&lt;/li>
+&lt;li>&lt;input type="checkbox" checked="" disabled=""> Write diagram example&lt;/li>
+&lt;li>&lt;input type="checkbox" disabled=""> Do something else&lt;/li>
+&lt;/ul>
+&lt;h3 id="tables">Tables&lt;/h3>
+&lt;p>Represent your data in tables:&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-markdown" data-lang="markdown">| First Header | Second Header |
+| ------------- | ------------- |
+| Content Cell | Content Cell |
+| Content Cell | Content Cell |&lt;/code>&lt;/pre>&lt;/div>
+&lt;p>renders as&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>First Header&lt;/th>
+&lt;th>Second Header&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Content Cell&lt;/td>
+&lt;td>Content Cell&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Content Cell&lt;/td>
+&lt;td>Content Cell&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="asides">Asides&lt;/h3>
+&lt;p>Academic supports a Markdown extension for asides, also referred to as &lt;em>notices&lt;/em> or &lt;em>hints&lt;/em>. By prefixing a paragraph with &lt;code>A&amp;gt;&lt;/code>, it will render as an aside. You can enable this feature by adding &lt;code>markup: mmark&lt;/code> to your page front matter, or alternatively using the &lt;a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/#alerts">&lt;em>Alert&lt;/em> shortcode&lt;/a>.&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-markdown" data-lang="markdown">A&amp;gt; A Markdown aside is useful for displaying notices, hints, or definitions to your readers.&lt;/code>&lt;/pre>&lt;/div>
+&lt;p>renders as&lt;/p>
+&lt;aside>
+&lt;p>A Markdown aside is useful for displaying notices, hints, or definitions to your readers.&lt;/p>
+&lt;/aside>
+&lt;h3 id="did-you-find-this-page-helpful-consider-sharing-it-">Did you find this page helpful? Consider sharing it 🙌&lt;/h3></description></item><item><title>An example preprint / working paper</title><link>/publication/preprint/</link><pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate><guid>/publication/preprint/</guid><description>&lt;!-- raw HTML omitted -->
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/">code and math&lt;/a>.&lt;/p></description></item><item><title>Display Jupyter Notebooks with Academic</title><link>/post/jupyter/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>/post/jupyter/</guid><description>&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-python" data-lang="python">&lt;span style="color:#f92672">from&lt;/span> IPython.core.display &lt;span style="color:#f92672">import&lt;/span> Image
+Image(&lt;span style="color:#e6db74">&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span>)
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;img src="./index_1_0.png" alt="png">&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-python" data-lang="python">&lt;span style="color:#66d9ef">print&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;Welcome to Academic!&amp;#34;&lt;/span>)
+&lt;/code>&lt;/pre>&lt;/div>&lt;pre>&lt;code>Welcome to Academic!
+&lt;/code>&lt;/pre>
+&lt;h2 id="install-python-and-jupyterlab">Install Python and JupyterLab&lt;/h2>
+&lt;p>&lt;a href="https://www.anaconda.com/distribution/#download-section">Install Anaconda&lt;/a> which includes Python 3 and JupyterLab.&lt;/p>
+&lt;p>Alternatively, install JupyterLab with &lt;code>pip3 install jupyterlab&lt;/code>.&lt;/p>
+&lt;h2 id="create-or-upload-a-jupyter-notebook">Create or upload a Jupyter notebook&lt;/h2>
+&lt;p>Run the following commands in your Terminal, substituting &lt;code>&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code> and &lt;code>&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code> with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-bash" data-lang="bash">mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+cd &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+jupyter lab index.ipynb
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>The &lt;code>jupyter&lt;/code> command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p>
+&lt;h2 id="edit-your-post-metadata">Edit your post metadata&lt;/h2>
+&lt;p>The first cell of your Jupter notebook will contain your post metadata (&lt;a href="https://sourcethemes.com/academic/docs/front-matter/">front matter&lt;/a>).&lt;/p>
+&lt;p>In Jupter, choose &lt;em>Markdown&lt;/em> as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p>
+&lt;pre>&lt;code>---
+title: My post's title
+date: 2019-09-01
+# Put any other Academic metadata here...
+---
+&lt;/code>&lt;/pre>&lt;p>Edit the metadata of your post, using the &lt;a href="https://sourcethemes.com/academic/docs/managing-content">documentation&lt;/a> as a guide to the available options.&lt;/p>
+&lt;p>To set a &lt;a href="https://sourcethemes.com/academic/docs/managing-content/#featured-image">featured image&lt;/a>, place an image named &lt;code>featured&lt;/code> into your post&amp;rsquo;s folder.&lt;/p>
+&lt;p>For other tips, such as using math, see the guide on &lt;a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/">writing content with Academic&lt;/a>.&lt;/p>
+&lt;h2 id="convert-notebook-to-markdown">Convert notebook to Markdown&lt;/h2>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-bash" data-lang="bash">jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir&lt;span style="color:#f92672">=&lt;/span>.
+&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="example">Example&lt;/h2>
+&lt;p>This post was created with Jupyter. The orginal files can be found at &lt;a href="https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter">https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a>&lt;/p></description></item><item><title>Slides</title><link>/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>/slides/example/</guid><description>&lt;h1 id="welcome-to-slides">Welcome to Slides&lt;/h1>
+&lt;p>&lt;a href="https://sourcethemes.com/academic/">Academic&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ul>
+&lt;li>Efficiently write slides in Markdown&lt;/li>
+&lt;li>3-in-1: Create, Present, and Publish your slides&lt;/li>
+&lt;li>Supports speaker notes&lt;/li>
+&lt;li>Mobile friendly slides&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="controls">Controls&lt;/h2>
+&lt;ul>
+&lt;li>Next: &lt;code>Right Arrow&lt;/code> or &lt;code>Space&lt;/code>&lt;/li>
+&lt;li>Previous: &lt;code>Left Arrow&lt;/code>&lt;/li>
+&lt;li>Start: &lt;code>Home&lt;/code>&lt;/li>
+&lt;li>Finish: &lt;code>End&lt;/code>&lt;/li>
+&lt;li>Overview: &lt;code>Esc&lt;/code>&lt;/li>
+&lt;li>Speaker notes: &lt;code>S&lt;/code>&lt;/li>
+&lt;li>Fullscreen: &lt;code>F&lt;/code>&lt;/li>
+&lt;li>Zoom: &lt;code>Alt + Click&lt;/code>&lt;/li>
+&lt;li>&lt;a href="https://github.com/hakimel/reveal.js#pdf-export">PDF Export&lt;/a>: &lt;code>E&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="code-highlighting">Code Highlighting&lt;/h2>
+&lt;p>Inline code: &lt;code>variable&lt;/code>&lt;/p>
+&lt;p>Code block:&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-python" data-lang="python">porridge &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">&amp;#34;blueberry&amp;#34;&lt;/span>
+&lt;span style="color:#66d9ef">if&lt;/span> porridge &lt;span style="color:#f92672">==&lt;/span> &lt;span style="color:#e6db74">&amp;#34;blueberry&amp;#34;&lt;/span>:
+&lt;span style="color:#66d9ef">print&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;Eating...&amp;#34;&lt;/span>)
+&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
+&lt;h2 id="math">Math&lt;/h2>
+&lt;p>In-line math: $x + y = z$&lt;/p>
+&lt;p>Block math:&lt;/p>
+&lt;p>$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p>
+&lt;hr>
+&lt;h2 id="fragments">Fragments&lt;/h2>
+&lt;p>Make content appear incrementally&lt;/p>
+&lt;pre>&lt;code>{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code>&lt;/pre>&lt;p>Press &lt;code>Space&lt;/code> to play!&lt;/p>
+&lt;p>&lt;!-- raw HTML omitted -->
+One
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;strong>Two&lt;/strong>
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+Three
+&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;hr>
+&lt;p>A fragment can accept two optional parameters:&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>class&lt;/code>: use a custom style (requires definition in custom CSS)&lt;/li>
+&lt;li>&lt;code>weight&lt;/code>: sets the order in which a fragment appears&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="speaker-notes">Speaker Notes&lt;/h2>
+&lt;p>Add speaker notes to your presentation&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-markdown" data-lang="markdown">{{% speaker_note %}}
+&lt;span style="color:#66d9ef">-&lt;/span> Only the speaker can read these notes
+&lt;span style="color:#66d9ef">-&lt;/span> Press &lt;span style="color:#e6db74">`S`&lt;/span> key to view
+{{% /speaker_note %}}
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>Press the &lt;code>S&lt;/code> key to view the speaker notes!&lt;/p>
+&lt;aside class="notes">
+&lt;ul>
+&lt;li>Only the speaker can read these notes&lt;/li>
+&lt;li>Press &lt;code>S&lt;/code> key to view&lt;/li>
+&lt;/ul>
+&lt;/aside>
+&lt;hr>
+&lt;h2 id="themes">Themes&lt;/h2>
+&lt;ul>
+&lt;li>black: Black background, white text, blue links (default)&lt;/li>
+&lt;li>white: White background, black text, blue links&lt;/li>
+&lt;li>league: Gray background, white text, blue links&lt;/li>
+&lt;li>beige: Beige background, dark text, brown links&lt;/li>
+&lt;li>sky: Blue background, thin dark text, blue links&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;ul>
+&lt;li>night: Black background, thick white text, orange links&lt;/li>
+&lt;li>serif: Cappuccino background, gray text, brown links&lt;/li>
+&lt;li>simple: White background, black text, blue links&lt;/li>
+&lt;li>solarized: Cream-colored background, dark green text, blue links&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;section data-noprocess data-shortcode-slide
+data-background-image="/img/boards.jpg"
+>
+&lt;h2 id="custom-slide">Custom Slide&lt;/h2>
+&lt;p>Customize the slide style and background&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-markdown" data-lang="markdown">{{&amp;lt; slide background-image=&amp;#34;/img/boards.jpg&amp;#34; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;#34;#0000FF&amp;#34; &amp;gt;}}
+{{&amp;lt; slide class=&amp;#34;my-style&amp;#34; &amp;gt;}}
+&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
+&lt;h2 id="custom-css-example">Custom CSS Example&lt;/h2>
+&lt;p>Let&amp;rsquo;s make headers navy colored.&lt;/p>
+&lt;p>Create &lt;code>assets/css/reveal_custom.css&lt;/code> with:&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-css" data-lang="css">.&lt;span style="color:#a6e22e">reveal&lt;/span> &lt;span style="color:#f92672">section&lt;/span> &lt;span style="color:#f92672">h1&lt;/span>&lt;span style="color:#f92672">,&lt;/span>
+.&lt;span style="color:#a6e22e">reveal&lt;/span> &lt;span style="color:#f92672">section&lt;/span> &lt;span style="color:#f92672">h2&lt;/span>&lt;span style="color:#f92672">,&lt;/span>
+.&lt;span style="color:#a6e22e">reveal&lt;/span> &lt;span style="color:#f92672">section&lt;/span> &lt;span style="color:#f92672">h3&lt;/span> {
+&lt;span style="color:#66d9ef">color&lt;/span>: &lt;span style="color:#66d9ef">navy&lt;/span>;
+}
+&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
+&lt;h1 id="questions">Questions?&lt;/h1>
+&lt;p>&lt;a href="https://discourse.gohugo.io">Ask&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://sourcethemes.com/academic/docs/">Documentation&lt;/a>&lt;/p></description></item><item><title>External Project</title><link>/project/external-project/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>/project/external-project/</guid><description/></item><item><title>Internal Project</title><link>/project/internal-project/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>/project/internal-project/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
+&lt;p>Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p>
+&lt;p>Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p>
+&lt;p>Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p>
+&lt;p>Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p></description></item><item><title>Academic: the website builder for Hugo</title><link>/post/getting-started/</link><pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate><guid>/post/getting-started/</guid><description>&lt;p>&lt;strong>Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em>widgets&lt;/em>, &lt;em>themes&lt;/em>, and &lt;em>language packs&lt;/em> included!&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://academic-demo.netlify.com/">Check out the latest &lt;strong>demo&lt;/strong>&lt;/a> of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href="https://sourcethemes.com/academic/#expo">view the &lt;strong>showcase&lt;/strong>&lt;/a> of personal, project, and business sites.&lt;/p>
+&lt;ul>
+&lt;li>👉 &lt;a href="#install">&lt;strong>Get Started&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>📚 &lt;a href="https://sourcethemes.com/academic/docs/">View the &lt;strong>documentation&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>💬 &lt;a href="https://discourse.gohugo.io">&lt;strong>Ask a question&lt;/strong> on the forum&lt;/a>&lt;/li>
+&lt;li>👥 &lt;a href="https://spectrum.chat/academic">Chat with the &lt;strong>community&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>🐦 Twitter: &lt;a href="https://twitter.com/source_themes">@source_themes&lt;/a> &lt;a href="https://twitter.com/GeorgeCushen">@GeorgeCushen&lt;/a> &lt;a href="https://twitter.com/search?q=%23MadeWithAcademic&amp;amp;src=typd">#MadeWithAcademic&lt;/a>&lt;/li>
+&lt;li>💡 &lt;a href="https://github.com/gcushen/hugo-academic/issues">Request a &lt;strong>feature&lt;/strong> or report a &lt;strong>bug&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>⬆️ &lt;strong>Updating?&lt;/strong> View the &lt;a href="https://sourcethemes.com/academic/docs/update/">Update Guide&lt;/a> and &lt;a href="https://sourcethemes.com/academic/updates/">Release Notes&lt;/a>&lt;/li>
+&lt;li>❤ &lt;strong>Support development&lt;/strong> of Academic:
+&lt;ul>
+&lt;li>☕️ &lt;a href="https://paypal.me/cushen">&lt;strong>Donate a coffee&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>💵 &lt;a href="https://www.patreon.com/cushen">Become a backer on &lt;strong>Patreon&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>🖼️ &lt;a href="https://www.redbubble.com/people/neutreno/works/34387919-academic">Decorate your laptop or journal with an Academic &lt;strong>sticker&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>👕 &lt;a href="https://academic.threadless.com/">Wear the &lt;strong>T-shirt&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>👩‍💻 &lt;a href="https://sourcethemes.com/academic/docs/contribute/">&lt;strong>Contribute&lt;/strong>&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;link rel="stylesheet" href="/css/hugo-easy-gallery.css" />
+&lt;div class="box" >
+&lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+&lt;div class="img">
+&lt;img itemprop="thumbnail" src="https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png" />
+&lt;/div>
+&lt;a href="https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png" itemprop="contentUrl">&lt;/a>
+&lt;figcaption>&lt;h4>Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.&lt;/h4>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;p>&lt;strong>Key features:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Page builder&lt;/strong> - Create &lt;em>anything&lt;/em> with &lt;a href="https://sourcethemes.com/academic/docs/page-builder/">&lt;strong>widgets&lt;/strong>&lt;/a> and &lt;a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/">&lt;strong>elements&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Edit any type of content&lt;/strong> - Blog posts, publications, talks, slides, projects, and more!&lt;/li>
+&lt;li>&lt;strong>Create content&lt;/strong> in &lt;a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/">&lt;strong>Markdown&lt;/strong>&lt;/a>, &lt;a href="https://sourcethemes.com/academic/docs/jupyter/">&lt;strong>Jupyter&lt;/strong>&lt;/a>, or &lt;a href="https://sourcethemes.com/academic/docs/install/#install-with-rstudio">&lt;strong>RStudio&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Plugin System&lt;/strong> - Fully customizable &lt;a href="https://sourcethemes.com/academic/themes/">&lt;strong>color&lt;/strong> and &lt;strong>font themes&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Display Code and Math&lt;/strong> - Code highlighting and &lt;a href="https://en.wikibooks.org/wiki/LaTeX/Mathematics">LaTeX math&lt;/a> supported&lt;/li>
+&lt;li>&lt;strong>Integrations&lt;/strong> - &lt;a href="https://analytics.google.com">Google Analytics&lt;/a>, &lt;a href="https://disqus.com">Disqus commenting&lt;/a>, Maps, Contact Forms, and more!&lt;/li>
+&lt;li>&lt;strong>Beautiful Site&lt;/strong> - Simple and refreshing one page design&lt;/li>
+&lt;li>&lt;strong>Industry-Leading SEO&lt;/strong> - Help get your website found on search engines and social media&lt;/li>
+&lt;li>&lt;strong>Media Galleries&lt;/strong> - Display your images and videos with captions in a customizable gallery&lt;/li>
+&lt;li>&lt;strong>Mobile Friendly&lt;/strong> - Look amazing on every screen with a mobile friendly version of your site&lt;/li>
+&lt;li>&lt;strong>Multi-language&lt;/strong> - 15+ language packs including English, 中文, and Português&lt;/li>
+&lt;li>&lt;strong>Multi-user&lt;/strong> - Each author gets their own profile page&lt;/li>
+&lt;li>&lt;strong>Privacy Pack&lt;/strong> - Assists with GDPR&lt;/li>
+&lt;li>&lt;strong>Stand Out&lt;/strong> - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li>
+&lt;li>&lt;strong>One-Click Deployment&lt;/strong> - No servers. No databases. Only files.&lt;/li>
+&lt;/ul>
+&lt;h2 id="themes">Themes&lt;/h2>
+&lt;p>Academic comes with &lt;strong>automatic day (light) and night (dark) mode&lt;/strong> built-in. Alternatively, visitors can choose their preferred mode - click the sun/moon icon in the top right of the &lt;a href="https://academic-demo.netlify.com/">Demo&lt;/a> to see it in action! Day/night mode can also be disabled by the site admin in &lt;code>params.toml&lt;/code>.&lt;/p>
+&lt;p>&lt;a href="https://sourcethemes.com/academic/themes/">Choose a stunning &lt;strong>theme&lt;/strong> and &lt;strong>font&lt;/strong>&lt;/a> for your site. Themes are fully &lt;a href="https://sourcethemes.com/academic/docs/customization/#custom-theme">customizable&lt;/a>.&lt;/p>
+&lt;h2 id="ecosystem">Ecosystem&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://github.com/sourcethemes/academic-admin">Academic Admin&lt;/a>:&lt;/strong> An admin tool to import publications from BibTeX or import assets for an offline site&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://github.com/sourcethemes/academic-scripts">Academic Scripts&lt;/a>:&lt;/strong> Scripts to help migrate content to new versions of Academic&lt;/li>
+&lt;/ul>
+&lt;h2 id="install">Install&lt;/h2>
+&lt;p>You can choose from one of the following four methods to install:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://sourcethemes.com/academic/docs/install/#install-with-web-browser">&lt;strong>one-click install using your web browser (recommended)&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://sourcethemes.com/academic/docs/install/#install-with-git">install on your computer using &lt;strong>Git&lt;/strong> with the Command Prompt/Terminal app&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://sourcethemes.com/academic/docs/install/#install-with-zip">install on your computer by downloading the &lt;strong>ZIP files&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://sourcethemes.com/academic/docs/install/#install-with-rstudio">install on your computer with &lt;strong>RStudio&lt;/strong>&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Then &lt;a href="https://sourcethemes.com/academic/docs/get-started/">personalize and deploy your new site&lt;/a>.&lt;/p>
+&lt;h2 id="updating">Updating&lt;/h2>
+&lt;p>&lt;a href="https://sourcethemes.com/academic/docs/update/">View the Update Guide&lt;/a>.&lt;/p>
+&lt;p>Feel free to &lt;em>star&lt;/em> the project on &lt;a href="https://github.com/gcushen/hugo-academic/">Github&lt;/a> to help keep track of &lt;a href="https://sourcethemes.com/academic/updates">updates&lt;/a>.&lt;/p>
+&lt;h2 id="license">License&lt;/h2>
+&lt;p>Copyright 2016-present &lt;a href="https://georgecushen.com">George Cushen&lt;/a>.&lt;/p>
+&lt;p>Released under the &lt;a href="https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md">MIT&lt;/a> license.&lt;/p></description></item><item><title>An example journal article</title><link>/publication/journal-article/</link><pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate><guid>/publication/journal-article/</guid><description>&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/">code and math&lt;/a>.&lt;/p></description></item><item><title>An example conference paper</title><link>/publication/conference-paper/</link><pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate><guid>/publication/conference-paper/</guid><description>&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/">code and math&lt;/a>.&lt;/p></description></item></channel></rss>
